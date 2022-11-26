@@ -45,6 +45,14 @@
                 }
                 
                 }
+                ,{
+                    "path" : "search/search",
+                    "style" :                                                                                    
+                {
+                
+                }
+                
+                }
             ]
 		}
 	],
