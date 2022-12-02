@@ -32,7 +32,7 @@ mpMixins = {
 		// wxs 中调用
 		closeSwipe(e) {
 			if (!this.autoClose) return
-			this.swipeaction.closeOther(this)
+			// this.swipeaction.closeOther(this)
 		},
 
 		change(e) {
