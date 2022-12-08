@@ -55,6 +55,7 @@
 	border-radius: 24px;
 	border: 2px solid #efefef;
 	margin-bottom: 2px;
+	
 }
 .address-choose-box {
 	height: 90px;
